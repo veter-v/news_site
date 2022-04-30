@@ -5,6 +5,7 @@ __pycache__/
 
 .idea
 news_site/news/migrations
+news_site/media
 
 # C extensions
 *.so
